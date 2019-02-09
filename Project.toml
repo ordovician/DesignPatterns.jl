@@ -1,0 +1,6 @@
+authors = ["Erik Engheim <erik.engheim@mac.com>"]
+name = "DesignPatterns"
+uuid = "4c20a52e-ef72-11e8-264e-71a54bf639e0"
+version = "0.1.0"
+
+[deps]
